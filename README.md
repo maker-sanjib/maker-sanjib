@@ -9,22 +9,28 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/asanjibkumar" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+</a>
+<a href="https://x.com/sanjib_8895" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" />
+</a>
+<a href="sanjebpatra3@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" />
+</a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
 </p>
 
 ---
@@ -40,7 +46,7 @@
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
@@ -48,10 +54,10 @@
 ---
 
 ### 🚀 Projects
-- 🌾 **Finger Millet Disease Detection** – AI-based crop disease detection  
-- 🧠 **Brain Tumor Classification** – Deep Learning on MRI scans  
-- 📚 **AI-Driven Personalized Learning Platform** – Adaptive education system  
+- 🌾 **Finger Millet Disease Detection** — AI-powered system for early crop disease detection to support farmers  
+- 🧠 **Brain Tumor Classification** — Deep learning model to classify MRI brain scans with high accuracy  
+- 📚 **AI-Driven Personalized Learning Platform** — Adaptive learning platform integrating AI to enhance education  
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and collaborate!*  
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect for collaborations or questions.*  
