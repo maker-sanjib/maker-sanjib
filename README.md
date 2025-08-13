@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanjib Kumar Patro</h1>
-<h3 align="center">🚀 Passionate AI/ML Developer | Generative AI Explorer | B.Tech CSE @ CUTM</h3>
+<h1 align="center">Hi 👋, I'm  A Sanjib Kumar Patro</h1>
+<h3 align="center">🚀 Passionate AI/ML Developer | Generative AI Explorer |Aspiring data Science | B.Tech CSE @ CUTM</h3>
 
 <p align="center">
   💡 Exploring the power of AI, Generative Models, and IoT<br>
-  🌱 Currently learning: Deep Learning, DevOps, Cloud Fundamentals<br>
+  🌱 Currently learning: Deep Learning, Generative Transformer Model, Web developing , Cloud Fundamentals<br>
   📈 Open-Source Contributor | Lifelong Learner | Tech Innovator
 </p>
 
@@ -26,13 +26,26 @@
 
 ### 💻 Tech Stack
 <p align="center">
+  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/amazon-s3.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
+
 
 ---
 
