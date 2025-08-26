@@ -57,6 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-sanjib&layout=compact&theme=radical" />
 </p>
+![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
