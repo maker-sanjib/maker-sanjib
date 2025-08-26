@@ -58,13 +58,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/maker-sanjib/maker-sanjib/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maker-sanjib&theme=radical" />
