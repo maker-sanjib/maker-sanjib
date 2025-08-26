@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm  A Sanjib Kumar Patro</h1>
-<h3 align="center">🚀 Passionate AI/ML Developer | Generative AI Explorer |Aspiring data Science | B.Tech CSE @ CUTM</h3>
+<h3 align="center">🚀 Passionate AI/ML Developer | Generative AI Explorer | Aspiring Data Scientist | B.Tech CSE @ CUTM</h3>
 
 <p align="center">
   💡 Exploring the power of AI, Generative Models, and IoT<br>
-  🌱 Currently learning: Deep Learning, Generative Transformer Model, Web developing , Cloud Fundamentals<br>
+  🌱 Currently learning: Deep Learning, Generative Transformer Model, Web Development, Cloud Fundamentals<br>
   📈 Open-Source Contributor | Lifelong Learner | Tech Innovator
 </p>
 
@@ -26,7 +26,6 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
@@ -46,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -57,7 +55,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-sanjib&layout=compact&theme=radical" />
 </p>
-![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/maker-sanjib/maker-sanjib/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -77,5 +81,3 @@
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect for collaborations.*
-
-
